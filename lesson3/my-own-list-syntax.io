@@ -1,5 +1,5 @@
 curlyBrackets := method(
-  // simple trick, arguments is a list, let's return it 
+  // simple trick, arguments are a list, let's return it 
   call message arguments
 )
  
